@@ -1,9 +1,9 @@
 # William Simone's First CS193 Homework
 Things I Enjoy about CS193
 
--Learning how to better prepare myself for the CS curriculumn
--Preparing for interviews, job fairs, and other opportunities.
--Becoming more familiar with many of the tools we use at Purdue in computer science.
+- Learning how to better prepare myself for the CS curriculumn
+- Preparing for interviews, job fairs, and other opportunities.
+- Becoming more familiar with many of the tools we use at Purdue in computer science.
 
 ## Welcome to GitHub Pages
 
