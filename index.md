@@ -1,3 +1,8 @@
+# William Simone's First CS193 Homework
+Things I Enjoy about CS193
+-Learning how to better prepare myself for the CS curriculumn
+-Preparing for interviews, job fairs, and other opportunities.
+-Becoming more familiar with many of the tools we use at Purdue in computer science.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
